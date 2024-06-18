@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bautegg
-- 👀 I’m interested in Analysis, SQL, Python
+- 👀 I’m interested in Analysis, SQL, Python and CyberSec
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - via GitHub
